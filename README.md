@@ -8,9 +8,9 @@ Displays error messages on incorrect input.
 
 Hardcoded valid credentials for demo login:
 
-Username: user
+Username: ahmadtask@gmail.com
 
-Password: 1234
+Password: 123456
 
 👤 Profile Screen
 Displays static user profile info (like name, email, and picture).
